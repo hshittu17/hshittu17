@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ⚡ Fun fact:
-
+Subscribe to my Music YouTube Channel
 <div display="flex">
-<a href="https://www.youtube.com/@hamzz6824/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="I have a music YouTube Channel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hamzz6824/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg](https://1291668043.rsc.cdn77.org/getthumbnail.aspx?q=60&crop=1&h=450&w=800&id_file=213976093" alt="I have a music YouTube Channel" height="30" width="40" /></a>
 </div>
