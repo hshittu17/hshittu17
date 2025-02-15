@@ -1,9 +1,5 @@
-  <div display="flex">
-<a href=""> <img src="hshittu17/cloud computing img 2 credit emeritus.png" alt="Hamza Shittu Github Header Image of Cloud"/></a>
-</div>
-
-![Alt text](https://github.com/hshittu17/hshittu17/blob/main/cloud%20computing%20img%202%20credit%20emeritus.png)
-
+<!-- ![Alt text](https://github.com/hshittu17/hshittu17/blob/main/cloud%20computing%20img%202%20credit%20emeritus.png)
+-->
 ## Hey there! 👋🏾
 
 
