@@ -1,6 +1,7 @@
-<div display="flex">
+  <div display="flex">
 <a href=""> <img src="hshittu17/cloud computing img 2 credit emeritus.png" alt="Hamza Shittu Github Header Image of Cloud"/></a>
 </div>
+![Alt text](hshittu17/cloud computing img 2 credit emeritus.png)
 
 
 ## Hey there! 👋🏾
