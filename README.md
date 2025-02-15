@@ -1,5 +1,5 @@
 <div display="flex">
-<a href=""> <img alt="Hamza Shittu Header Image of Cloud" src="https://drive.google.com/file/d/1VD2axDqqY3mPGkruthXy_1e3U9_GDCJA/view?usp=sharing"></a>
+<a href=""> <img src="https://drive.google.com/file/d/1VD2axDqqY3mPGkruthXy_1e3U9_GDCJA/view?usp=sharing" alt="Hamza Shittu Github Header Image of Cloud"/></a>
 </div>
 
 
