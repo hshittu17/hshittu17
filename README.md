@@ -1,6 +1,8 @@
 <div display="flex">
-<a href="" src="https://drive.google.com/file/d/1VD2axDqqY3mPGkruthXy_1e3U9_GDCJA/view?usp=sharing" alt="Hamza Shittu header banner image"/></a>
+![alt text](https://drive.google.com/file/d/1VD2axDqqY3mPGkruthXy_1e3U9_GDCJA/view?usp=sharing) 
 </div>
+
+
 ## Hey there! 👋🏾
 
 
@@ -10,11 +12,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on [Learn to Cloud 30 Day Challenge]([url](https://learntocloud.guide/)), 
+- 🌱 I’m currently learning AWS Cloud & Cybersecurity (pentester/ethical hacking)
+- 👯 I’m looking to collaborate on Cloud & Cybersecurity Projects
+- 🤔 I’m looking for help with networking. Looking to connect with like-minded folks!
+- 💬 Ask me about AWS Cloud Services such as IAM, VPC, EC2, Lambda, and how these services integrate together to create cloud architectures. 
 
 
 ## 📥 Connect on LinkedIn
