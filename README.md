@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔐 Cybersecurity (pentester/ethical hacking)
 
 ## What I'm looking for:
-- 👯 I’m looking to collaborate on Cloud & Cybersecurity Projects
+- 🕺🏽 I’m looking to collaborate on Cloud & Cybersecurity Projects
 - 🤔 I’m looking for help with networking. Looking to connect with like-minded folks!
 - 💬 Ask me about AWS Cloud Services such as IAM, VPC, EC2, Lambda, and how these services integrate together to create cloud architectures. 
 
