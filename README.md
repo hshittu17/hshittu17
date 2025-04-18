@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 ## I'm currently working on:
-- 📗 [Learn to Cloud 30 Day Challenge]([url](https://learntocloud.guide/)) 
+- 📅 [Learn to Cloud 30 Day Challenge]([url](https://learntocloud.guide/)) 
 - ☁️ Learning AWS Cloud Services
 - 🔐 Cybersecurity (pentester/ethical hacking)
 
