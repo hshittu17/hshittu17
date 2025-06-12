@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## What I'm looking for:
 - 🕺🏽 I’m looking to collaborate on Cloud, AI, & Cybersecurity Projects
 - 🤔 I’m looking for help with networking. Looking to connect with like-minded folks!
-- 💬 Ask me about AWS Cloud Services such as IAM, VPC, EC2, Lambda, and how these services integrate together to create cloud architectures. 
+- 💬 Ask me about front-end development and AWS Cloud Services, such as IAM, VPC, EC2, Lambda, and how these services integrate together to create cloud architectures to host modern web applications. 
 
 ## Tech Stacks
 <p align="left">
